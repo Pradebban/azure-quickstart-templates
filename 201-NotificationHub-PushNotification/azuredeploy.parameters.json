@@ -1,0 +1,30 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "NamespaceName": {
+      "value": "GEN-UNIQUE"
+    },
+    "NotificationHubSKU": {
+      "value": "Free"
+    },
+    "NotificationhubName": {
+      "value": ""
+    },
+    "googleApiKey": {
+      "value": ""
+    },
+    "apnsCertificate": {
+      "value": ""
+    },
+    "certificateKey": {
+      "value": ""
+    },
+    "baiduApiKey": {
+      "value": ""
+    },
+    "baiduSecretKey": {
+      "value": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "NotificationHub with Push Notification settings",
+  "description": "In this example, the template deploys a Notification Hub with Push Notification Configurations limited to Apple (APNS), Google (GCM), Baidu (Android China)",
+  "summary": "This template creates a NotificationHub, and configures Push Notification settings",
+  "githubUsername": "pradebban",
+  "dateUpdated": "2017-03-07"
+}
